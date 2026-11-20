@@ -13,7 +13,7 @@
         <options>
           <option name="title_enabled" value="true">
             <options>
-              <option name="title_text" value="IT Troubleshooting:&#xA;Diagnose the Problem" />
+              <option name="title_text" value="IT Troubleshooting: &#xA;Diagnose the Problem" />
             </options>
           </option>
           <option name="logo_enabled" value="false">
